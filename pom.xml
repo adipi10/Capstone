@@ -50,11 +50,7 @@
 			<artifactId>allure-testng</artifactId>
 			<version>2.25.0</version>
 		</dependency>
-		<dependency>
-			<groupId>XYZ_Bank</groupId>
-			<artifactId>XYZ_Bank</artifactId>
-			<version>0.0.1-SNAPSHOT</version>
-		</dependency>
+		
   </dependencies>
 
   <build>
